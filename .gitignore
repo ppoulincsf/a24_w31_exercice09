@@ -32,6 +32,7 @@ bld/
 [Ll]og/
 [Ll]ogs/
 !/Exercice09-ETU/extern/VLD/[Bb]in
+!/Exercice09-ETU/extern/VLD/[Bb]in/[Ww][Ii][Nn]32/
 !/Exercice09-ETU/extern/VLD/lib/[Ww][Ii][Nn]32/
 !/Exercice09/EXE/[Ex]xe
 # Visual Studio 2015/2017 cache/options directory
