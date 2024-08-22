@@ -31,8 +31,9 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-!/Exercice02/extern/VLD/[Bb]in
-!/Exercice02/EXE/[Ex]xe
+!/Exercice09/extern/VLD/[Bb]in
+!/Exercice09/extern/VLD/lib/[Ww][Ii][Nn]32/
+!/Exercice09/EXE/[Ex]xe
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
